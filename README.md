@@ -1,4 +1,4 @@
-# HackThisFall
+# Syasthavyash
 
 # Activating the Virtual Environment
 
